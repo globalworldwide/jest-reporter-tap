@@ -1,0 +1,30 @@
+{
+  "name": "@globalworldwide/jest-reporter-tap",
+  "version": "0.0.1",
+  "description": "Test Anything Protocol reporter for Jest",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "build": "echo \"no build specified\"",
+    "test": "echo \"no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/globalworldwide/jest-reporter-tap.git"
+  },
+  "keywords": [
+    "jest",
+    "tap",
+    "tap-v14",
+    "reporter"
+  ],
+  "author": "Matthew Douglass <matthew@globalworldwide.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/globalworldwide/jest-reporter-tap/issues"
+  },
+  "homepage": "https://github.com/globalworldwide/jest-reporter-tap#readme",
+  "dependencies": {
+    "yaml": "^2.4.0"
+  }
+}
